@@ -7,7 +7,7 @@ use Carp qw/croak/;
 use WWW::Mechanize;
 use HTML::TreeBuilder::XPath;
 
-our $VERSION = '0.02';
+our $VERSION = '0.04';
 
 sub new {
     my $class = shift;
