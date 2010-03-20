@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               WWW-IBM-Search
-version:            0.05
+version:            0.06
 abstract:           API to IBM Search
 author:
     - Daniel de Oliveira Mantovani <daniel.oliveira.mantovani@gmail.com>
